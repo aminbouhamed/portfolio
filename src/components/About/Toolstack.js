@@ -4,15 +4,20 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
+  SiLatex,
+  SiLinux,
+  SiAnaconda,
+  
 } from "react-icons/si";
+import {
+  AiFillGithub
+} from "react-icons/ai"
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -24,7 +29,10 @@ function Toolstack() {
         <SiSlack />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiLatex/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAnaconda/>
       </Col>
     </Row>
   );
