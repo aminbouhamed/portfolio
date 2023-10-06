@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.260c56d7.css",
-    "main.js": "./static/js/main.59f227c3.js",
+    "main.css": "./static/css/main.56b9e2a2.css",
+    "main.js": "./static/js/main.aca3f4c2.js",
     "static/js/415.4d6acbeb.chunk.js": "./static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/emotion.png": "./static/media/emotion.7d28b9d65b6e22db45c3.png",
     "static/media/5.png": "./static/media/5.7e1ce6999a5fcb9326c0.png",
+    "static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.pdf": "./static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.9805bcee2c6f040af2aa.pdf",
     "static/media/home-main.svg": "./static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "./static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.pdf": "./static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.bea71b4aa0aad0d35df1.pdf",
     "static/media/home-bg.jpg": "./static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "./static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/logo.png": "./static/media/logo.370dae1333622ff78e72.png",
     "static/media/pre.svg": "./static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "./index.html",
-    "main.260c56d7.css.map": "./static/css/main.260c56d7.css.map",
-    "main.59f227c3.js.map": "./static/js/main.59f227c3.js.map",
+    "main.56b9e2a2.css.map": "./static/css/main.56b9e2a2.css.map",
+    "main.aca3f4c2.js.map": "./static/js/main.aca3f4c2.js.map",
     "415.4d6acbeb.chunk.js.map": "./static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.260c56d7.css",
-    "static/js/main.59f227c3.js"
+    "static/css/main.56b9e2a2.css",
+    "static/js/main.aca3f4c2.js"
   ]
 }
