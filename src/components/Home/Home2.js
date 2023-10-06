@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub
+  AiFillGithub,
+  AiOutlineMail
 
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -18,21 +19,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with Data and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> Python,SQL,java and c. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's is building new &nbsp;
+            As a dedicated and hardworking individual, I am always seeking new challenges that enable me to utilize my skills and knowledge. With a passion for Artificial Intelligence,<br/> i take pride in my ability to achieve tasks and overcome difficulties in both individual and collaborative environments, I am committed to staying up-to-date with the latest technologies and methodologies, and am constantly looking for opportunities to expand my skill set and stay at the forefront of the industry.
+
+              
+             <vr/> My field of Interest's is building new &nbsp;
               <i>
                 <b className="purple">Useful AI solutions </b> 
               </i>
               <br />
-              <br />
+              
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Modern Python Frameworks</b>
               
@@ -67,12 +62,22 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/amin-bouhamed-7725711a0/"
+                  href="https://www.linkedin.com/in/amin-bouhamed/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:amin.bouhamed@esprit.tn"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineMail/>
                 </a>
               </li>
             </ul>

@@ -13,8 +13,8 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
+              <h1 style={{ paddingBottom: 5 }} className="heading">
+                Hi !{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
@@ -23,6 +23,9 @@ function Home() {
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> Amin Bouhamed</strong>
+              </h1>
+              <h1 className="heading-name">
+                IT Engineering Student, <br/>Currently looking for an end of studies internship 
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -35,7 +38,7 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "600px" }}
               />
             </Col>
           </Row>

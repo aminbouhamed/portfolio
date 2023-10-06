@@ -10,7 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Amin Bouhamed </span>
             from <span className="purple"> Sfax, Tunisia.</span>
-            <br /> I am a final year student pursuing a degree in Information Technology Engineering with a specialization in Data Science & AI.
+            <br /> I am a final year student pursuing a degree in Information Technology Engineering with a specialization in Data Science & AI at Higher School of Engineering and Technologies of Tunis.
+            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
