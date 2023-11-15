@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.56b9e2a2.css",
-    "main.js": "./static/js/main.324c8791.js",
-    "static/js/415.4d6acbeb.chunk.js": "./static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "main.css": "./static/css/main.cd097484.css",
+    "main.js": "./static/js/main.0ccfee65.js",
+    "static/js/787.7da95b79.chunk.js": "./static/js/787.7da95b79.chunk.js",
     "static/media/emotion.png": "./static/media/emotion.7d28b9d65b6e22db45c3.png",
     "static/media/5.png": "./static/media/5.7e1ce6999a5fcb9326c0.png",
-    "static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.pdf": "./static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.3aae0c56d682b8ff2243.pdf",
-    "static/media/home-main.svg": "./static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.pdf": "./static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.3156a64b9366a728b481.pdf",
+    "static/media/home-main.svg": "./static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "./static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "./static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "./static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/avatar.svg": "./static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/logo.png": "./static/media/logo.370dae1333622ff78e72.png",
-    "static/media/pre.svg": "./static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/pre.svg": "./static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "./index.html",
-    "main.56b9e2a2.css.map": "./static/css/main.56b9e2a2.css.map",
-    "main.324c8791.js.map": "./static/js/main.324c8791.js.map",
-    "415.4d6acbeb.chunk.js.map": "./static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+    "main.cd097484.css.map": "./static/css/main.cd097484.css.map",
+    "main.0ccfee65.js.map": "./static/js/main.0ccfee65.js.map",
+    "787.7da95b79.chunk.js.map": "./static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56b9e2a2.css",
-    "static/js/main.324c8791.js"
+    "static/css/main.cd097484.css",
+    "static/js/main.0ccfee65.js"
   ]
 }
