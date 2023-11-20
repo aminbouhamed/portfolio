@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import emotion from "../../Assets/Projects/emotion.png";
 import rvm from "../../Assets/Projects/5.png";
+import chatbot from "../../Assets/Projects/chatbot.png"
 
 
 function Projects() {
@@ -19,7 +20,17 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatbot}
+              isBlog={false}
+              title="Conceptual graph-based Recommendation System for PRM issue"
+              description="development of a groundbreaking knowledge graph and chatbot for Project Risk Management
+              (PRM), revolutionizing the way organizations approach risk assessmen"
+              ghLink="https://github.com/aminbouhamed/Conceptual-graph-based-Recommendation-System-for-PRM-issue"
+              demoLink="https://drive.google.com/file/d/1BnmItiq-Hq9LM28TNg0GPEjoDYFEtpEi/view?usp=sharing" 
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={rvm}
@@ -27,7 +38,7 @@ function Projects() {
               title="Reverse Vending Machine"
               description="Built a Prototype of cans and bottles sorter using computer vison pretrained model with tensorflow linked with a mobile application contain a gammification system"
               ghLink="https://github.com/aminbouhamed/reverse-vending-machine-django-api"
-              demoLink="https://drive.google.com/file/d/1iYF6ZegnNlID7g1da0yCUDRWzoDHxynM/view?usp=sharing" 
+              demoLink="https://drive.google.com/file/d/1SouWKc7Laf2fPTvktSnGw_zDsfEnzaCA/view?usp=sharing" 
             />
           </Col>
 
