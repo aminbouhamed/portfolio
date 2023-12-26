@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Reverse Vending Machine"
               description="Built a Prototype of cans and bottles sorter using computer vison pretrained model with tensorflow linked with a mobile application contain a gammification system"
-              ghLink="https://github.com/aminbouhamed/reverse-vending-machine-django-api"
+              ghLink="https://github.com/aminbouhamed/RVM-GUI"
               demoLink="https://drive.google.com/file/d/1SouWKc7Laf2fPTvktSnGw_zDsfEnzaCA/view?usp=sharing" 
             />
           </Col>
