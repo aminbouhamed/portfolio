@@ -28,7 +28,7 @@ function Projects() {
               description="development of a groundbreaking knowledge graph and chatbot for Project Risk Management
               (PRM), revolutionizing the way organizations approach risk assessmen"
               ghLink="https://github.com/aminbouhamed/Conceptual-graph-based-Recommendation-System-for-PRM-issue"
-              demoLink="https://drive.google.com/file/d/1BnmItiq-Hq9LM28TNg0GPEjoDYFEtpEi/view?usp=sharing" 
+              demoLink="https://drive.google.com/file/d/1N9AWNED2WwSH_q_flfkM4w5Qzzzhydso/view?usp=sharing" 
             />
           </Col>
           <Col md={4} className="project-card">
