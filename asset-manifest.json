@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cd097484.css",
-    "main.js": "./static/js/main.b146439f.js",
+    "main.js": "./static/js/main.b6a56b82.js",
     "static/js/787.7da95b79.chunk.js": "./static/js/787.7da95b79.chunk.js",
     "static/media/emotion.png": "./static/media/emotion.7d28b9d65b6e22db45c3.png",
     "static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.pdf": "./static/media/Amin_Bouhamed_Resume_28-08-2023-13-13-06.7e628e3de3988a6e2c33.pdf",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "./static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "./index.html",
     "main.cd097484.css.map": "./static/css/main.cd097484.css.map",
-    "main.b146439f.js.map": "./static/js/main.b146439f.js.map",
+    "main.b6a56b82.js.map": "./static/js/main.b6a56b82.js.map",
     "787.7da95b79.chunk.js.map": "./static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd097484.css",
-    "static/js/main.b146439f.js"
+    "static/js/main.b6a56b82.js"
   ]
 }
